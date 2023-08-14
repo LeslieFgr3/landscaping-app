@@ -1,1 +1,44 @@
-/home/lesliefgr3/github-projects/landscaping-app/src/components
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: lightgreen;
+    padding: 20px 80px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#navbar li {
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+    color: darkgreen;
+}
+a.site-title {
+    color: darkgreen;
+    font-size: 30px;
+    text-decoration: none;
+}
+a.navhome {
+    color: darkgreen;
+    font-size: 20px;
+    text-decoration: none;
+}
+a.navabout {
+    color: darkgreen;
+    font-size: 20px;
+    text-decoration: none;
+}
+a.navservices {
+    color: darkgreen;
+    font-size: 20px;
+    text-decoration: none;
+}
+a.navcontact {
+    color: darkgreen;
+    font-size: 20px;
+    text-decoration: none;
+}
